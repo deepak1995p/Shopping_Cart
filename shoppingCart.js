@@ -1,4 +1,4 @@
-<script>
+
     var test = (function() {
         var cart = [];
         var obj = {};
@@ -40,4 +40,3 @@
     test.countItem();
     test.display();
     console.log(test.cart);
-</script>
